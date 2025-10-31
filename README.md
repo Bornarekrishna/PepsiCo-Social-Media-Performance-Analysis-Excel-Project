@@ -127,5 +127,3 @@ The analysis empowers PepsiCo to make data-driven marketing decisions, identify 
 
 ### GitHub Repository Short Description
 > Excel-based data analytics project analyzing PepsiCo’s social media performance, engagement, and campaign effectiveness — completed during Internshala’s Data Analytics Training.
-
-## 📁 Repository Structure  
