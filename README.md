@@ -124,6 +124,3 @@ This project, developed as part of **Internshala’s Data Analytics Training Pro
 The analysis empowers PepsiCo to make data-driven marketing decisions, identify high-performing campaigns, and refine its overall digital engagement strategy.  
 
 ---
-
-### GitHub Repository Short Description
-> Excel-based data analytics project analyzing PepsiCo’s social media performance, engagement, and campaign effectiveness — completed during Internshala’s Data Analytics Training.
